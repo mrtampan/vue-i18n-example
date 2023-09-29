@@ -1,3 +1,6 @@
 {
-    "message": "hallo i18n !!"
+    "message": "hallo i18n !!",
+    "morning": "Selamat Pagi",
+    "afternoon": "Selamat Siang",
+    "night": "Selamat Malam"
   }

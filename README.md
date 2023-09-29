@@ -1,5 +1,8 @@
 # vue-i18n-example
 
+## Demo
+![](https://github.com/mrtampan/vue-i18n-example/public/example.gif)
+
 ## Project setup
 ```
 npm install
