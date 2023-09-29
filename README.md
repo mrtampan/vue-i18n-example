@@ -1,7 +1,7 @@
 # vue-i18n-example
 
 ## Demo
-![](https://github.com/mrtampan/vue-i18n-example/public/example.gif)
+![](https://raw.githubusercontent.com/mrtampan/vue-i18n-example/main/public/example.gif)
 
 ## Project setup
 ```
